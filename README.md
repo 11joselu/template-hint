@@ -1,4 +1,4 @@
-# template-hint [![Build Status](https://travis-ci.org/xpl/template-hint.svg?branch=master)](https://travis-ci.org/xpl/template-hint) [![NPM](https://img.shields.io/npm/v/template-hint.svg)](http://npmjs.com/package/template-hint)
+# template-hint [![Build Status](https://travis-ci.org/11joselu/template-hint.svg?branch=master)](https://travis-ci.org/11joselu/template-hint) [![NPM](https://img.shields.io/npm/v/template-hint.svg)](http://npmjs.com/package/template-hint)
 
 > This project born from [panic-overlay](https://github.com/xpl/panic-overlay)
 
@@ -38,7 +38,7 @@ All-in-one browser bundle (batteries included), served from a CDN of your choice
 Here's how you can find an example usage of `template-hint` with a webpack enviroment
 
 ```sh
-git clone https://github.com/xpl/template-hint.git
+git clone https://github.com/11joselu/template-hint.git
 cd template-hint
 npm install
 ```
