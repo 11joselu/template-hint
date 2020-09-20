@@ -41,16 +41,16 @@
   },
   "homepage": "https://github.com/11joselu/template-hint",
   "devDependencies": {
-    "@babel/core": "7.4.4",
-    "@babel/preset-env": "7.8.4",
-    "@babel/preset-react": "7.0.0",
+    "@babel/core": "7.11.6",
+    "@babel/preset-env": "7.11.5",
+    "@babel/preset-react": "7.10.4",
     "babelify": "10.0.0",
-    "browserify": "16.2.3",
-    "eslint": "4.19.1",
-    "prettier": "1.19.1",
-    "webpack": "4.31.0",
-    "webpack-cli": "3.3.2",
-    "webpack-dev-server": "3.3.1"
+    "browserify": "16.5.2",
+    "eslint": "7.9.0",
+    "prettier": "2.1.2",
+    "webpack": "4.44.2",
+    "webpack-cli": "3.3.12",
+    "webpack-dev-server": "3.11.0"
   },
   "dependencies": {}
 }
